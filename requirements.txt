@@ -7,8 +7,8 @@ werkzeug
 joblib
 fpdf
 Pillow
-scikit-learn==1.3.0
-xgboost==1.7.6
+scikit-learn==1.4.0
+xgboost==2.0.3
 catboost
 scipy
 imblearn
